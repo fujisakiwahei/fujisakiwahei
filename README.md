@@ -41,4 +41,4 @@ PageSpeed Insights：PC 98+ / Mobile 86
 🔗 <a href="https://dig-and-build.com/" target="_blank" rel="noopener noreferrer">https://dig-and-build.com/</a>
 
 ## 📫 Contact
-<a href="mailto:fujisakiwahei@gmail.com>fujisakiwahei@gmail.com</>
+<a href="mailto:fujisakiwahei@gmail.com">fujisakiwahei@gmail.com</a>
