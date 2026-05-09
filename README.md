@@ -29,7 +29,7 @@ Smoking Area Search Platform
 Nuxt 4 + Supabase + Stripe + Google Maps API によるフルスタック開発。  
 設計〜実装〜運用まで一人で担当。
 
-🔗 <a href="https://smoking-navi.jp/" target="_blank" rel="noopener noreferrer">https://smoking-navi.jp/</a>
+🔗 近日公開予定🤫
 
 ---
 
