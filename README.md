@@ -1,4 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,vite,pinia,astro,supabase,postgres,wordpress,tailwind,sass,css,html,docker,github,vercel,cloudflare,sentry,npm,pnpm,figma,xd,ai,ps,ae,obsidian,md)](https://skillicons.dev)
 # Wahei Fujisaki 👋
 
 2002年生まれのWebエンジニア。  
@@ -6,6 +5,7 @@
 2021年末からフリーランスとして活動しています。
 
 ## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,vite,pinia,astro,supabase,postgres,wordpress,tailwind,sass,css,html,docker,github,vercel,cloudflare,sentry,npm,pnpm,figma,xd,ai,ps,ae,obsidian,md)](https://skillicons.dev)
 
 - WordPress オリジナルテーマ開発
 - Astro + microCMS を用いた JAMstack サイト制作
